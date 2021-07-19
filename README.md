@@ -2,7 +2,9 @@
 
 This repository contains the full repondent data from the randomized controlled trial that was conducted for the paper ["Interventions for Softening Can Lead to Hardening of Opinions: Evidence from a Randomized Controlled Trial"](https://doi.org/10.1145/3442381.3450019). If you use the data, please consider citing us.
 
-> Andreas Spitz, Ahmad Abu-Akel, and Robert West. Interventions for Softening Can Lead to Hardening of Opinions: Evidence from a Randomized Controlled Trial. The Web Conference, 2021 (WWW'21)
+> Andreas Spitz, Ahmad Abu-Akel, and Robert West.
+> Interventions for Softening Can Lead to Hardening of Opinions: Evidence from a Randomized Controlled Trial.
+> The Web Conference, 2021 (WWW'21)
 
 # Data Versions
 
